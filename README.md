@@ -14,12 +14,12 @@ Two modeling techniques that were successfully applied to forecast patterns in v
 1.	[Clean and transform data](http://localhost:8888/notebooks/Desktop/WorkingDirectory/DataScience/Own_Projects/Flow_Analysis/Part%20I--Clean%20and%20Transform%20Data.ipynb) 
 + River flow records were collected from USGS gauge for a record from 1966 to 2019. 
 2.	Select error metrics
-    MASE (mean absolute scaled error)- compare the mean absolute error of the model to the naive forecast
-    MAPE (mean absolue percent error) - the percentage of the forecast error compared to the observed value
-    RMSE (root mean squared error) - the squared difference between the observed and forecasted values, finds the average, and then finds the square root
++ MASE (mean absolute scaled error)- compare the mean absolute error of the model to the naive forecast
++ MAPE (mean absolue percent error) - the percentage of the forecast error compared to the observed value
++ RMSE (root mean squared error) - the squared difference between the observed and forecasted values, finds the average, and then finds the square root
 
-3.	[Fit and validate ARIMA model](http://localhost:8888/notebooks/Desktop/WorkingDirectory/DataScience/Own_Projects/Flow_Analysis/Part%20II--Forecast%20Discharge%20with%20ARIMA%20Model.ipynb) 
-4.	[Train and validate LSTM network](http://localhost:8888/notebooks/Desktop/WorkingDirectory/DataScience/Own_Projects/Flow_Analysis/Part%20III---Forecast%20Discharge%20with%20LSTM.ipynb)
+3.	[Fit and optimize ARIMA model](http://localhost:8888/notebooks/Desktop/WorkingDirectory/DataScience/Own_Projects/Flow_Analysis/Part%20II--Forecast%20Discharge%20with%20ARIMA%20Model.ipynb) 
+4.	[Train and optimize LSTM network](http://localhost:8888/notebooks/Desktop/WorkingDirectory/DataScience/Own_Projects/Flow_Analysis/Part%20III---Forecast%20Discharge%20with%20LSTM.ipynb)
 
 **Conclusion**
 
